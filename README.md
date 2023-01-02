@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prahudeva
 - 👀 I’m interested in Java Programming and Entrepreneurial 
 - 🌱 I’m B.E. Computer Science Engineer 
-- 💞️ I’m looking to collaborate on Software Development 
 - 📫 Reach me on 8668023744, prahudeva@gmail.com
 
 <!---
